@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lzh.config.CommonResponseDataAdvice,\
+  com.lzh.config.GlobalExceptionAdvice,\
+  com.lzh.config.BaseExceptionHandler,\
+  com.lzh.config.WebMvcConfig
